@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "zhanghang",
+    name: "Zhang Hang",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Master Student@Kyushu University",
     bio: "",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Hang's blog",
-    description: "welcome to Hang's blog!",
+    title: "Hang's Blog",
+    description: "Welcome to Hang's blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
