@@ -7,13 +7,13 @@ const CONFIG = {
     bio: "I develop everything using node.",
     email: "zhanghang211202@gmail.com",
     github: "zhanghang211202",
-    linkedin: "morethanmin",
+    linkedin: "",
     instagram: "zhanghang211202",
   },
   projects: [
     {
-      name: `online_blog`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `morethan-log`,
+      href: "https://github.com/zhanghang211202/morethan-log",
     },
   ],
   // blog setting (required)
